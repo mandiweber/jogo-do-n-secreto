@@ -13,3 +13,6 @@ Este é um jogo simples onde o jogador tenta adivinhar um número secreto gerado
 5. O botão "Reiniciar" permite iniciar um novo jogo com um novo número secreto gerado aleatoriamente através do Math.random().
 
 📌 Uso de *responsiveVoice.speak* para feedback por voz.
+
+📸 Prévia do projeto:
+![image](https://github.com/user-attachments/assets/9c7753db-ca9f-4cdd-bec2-e534a48a6bce)
